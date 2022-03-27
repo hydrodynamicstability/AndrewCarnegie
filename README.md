@@ -1,7 +1,7 @@
 ## Andrew Carnegie:  Forerunner of Business Analytics (With Thoughts on What Statistics Was, What it Is, and What it Is Not)
 
 
-Notes for a virtual presentation by Dr. Christopher Tong at the Nevada Statistics Seminar, 25 March 2022, at the invitation of Prof. Anna Panorska, Dept. of Mathematics and Statistics, University of Nevada, Reno.
+Notes for a virtual presentation by **Dr. Christopher Tong** at the *Nevada Statistics Seminar*, 25 March 2022, at the invitation of Prof. Anna Panorska, [Dept. of Mathematics and Statistics, University of Nevada, Reno](https://www.unr.edu/math).
 
 I received several requests for the slides of my talk.  Rather than sharing the slides, I'm taking the opportunity to post more extensive notes about the presentation here.
 
