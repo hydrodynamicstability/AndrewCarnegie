@@ -27,7 +27,7 @@ The American railroads of the 19th century represent some of the largest compani
 
 W. Edwards Deming was born the year before Carnegie retired from the steel industry, but had the mature Deming been alive to observe Carnegie's management methods, he likely would have accused Carnegie of failing to distinguish between "common cause variation" and "special cause variation" (or to use Walter Shewhart's terms, "chance cause" and "assignable cause", respectively).  That is because these concepts and the surrounding statistical thinking and methods were developed after Carnegie had died, by Walter Shewhart in the 1920s at the Western Electric division of Bell Telephone.  To put it simply, Carnegie responded to noise, not just signal, in the data being reported to him by his managers.  Deming might have also noted that Carnegie failed to follow some of Deming's "14 points" of management.
 
-Reference:  Walter Shewhart, 1931:  *Economic Control of Quality of Manufactured Product* (Van Nostrand).  This has been reprinted by the American Society for Quality.
+Reference:  Walter A. Shewhart, 1931:  *Economic Control of Quality of Manufactured Product* (Van Nostrand).  This has been reprinted by the American Society for Quality.
 
 ### What Statistics was, what it is, and what it is not
 
@@ -41,11 +41,11 @@ While in the 19th century "statistics" could still be broadly defined, and a sep
 
 References:
 
-- R. A. Fisher (1922).  On the mathematical foundations of theoretical statistics.  *Philosophical Transactions of the Royal Society of London*, A222:  309-368.
-- J. H. Friedman (2001).  The role of statistics in the data revolution?  *International Statistical Review*, 69:  5-10.
+- R. A. Fisher (1922).  [On the mathematical foundations of theoretical statistics](https://doi.org/10.1098/rsta.1922.0009).  *Philosophical Transactions of the Royal Society of London*, A222:  309-368.
+- J. H. Friedman (2001).  [The role of statistics in the data revolution?](https://doi.org/10.1111/j.1751-5823.2001.tb00474.x)  *International Statistical Review*, 69:  5-10.
 - K. Lennox (2016).  [All about that Bayes:  Probability, Statistics, and the Quest to Quantify Uncertainty](https://www.youtube.com/watch?v=eDMGDhyDxuY)  Presentation at Lawrence Livermore National Labs.  
-- T. O'Hagan (2004).  Dicing with uncertainty.  *Significance*, 1 (3):  132-133.
-- H. I. Weisberg (2014), *Willful Igonorance:  The Mismeasure of Uncertainty*.  Wiley.
+- T. O'Hagan (2004).  [Dicing with the unknown](https://doi.org/10.1111/j.1740-9713.2004.00050.x).  *Significance*, 1 (3):  132-133.
+- H. I. Weisberg (2014), [*Willful Igonorance:  The Mismeasure of Uncertainty*](http://doi.org/10.1002/9781118839539).  Wiley.
 
 ### The need for judgment
 
@@ -59,9 +59,9 @@ Weisberg and Kay and King both point to the warnings made by two distinguished e
 What we need to spend more time teaching is judgment, including judgment about when a stochastic modeling approach is appropriate and when it is not.  The late General Colin Powell tells of a pointless regression modeling exercise of enemy mortar attack data during the Vietnam War, which led him to assert that "Experts often possess more data than judgment".  John Tukey (1962) wrote that “If data analysis is to be well done, much of it must be a matter of judgment, and ‘theory’, whether statistical or non-statistical, will have to guide, not command...it might be well if statisticians looked to see how data was actually analyzed by many sorts of people.”  I hope that I have done that by telling you about Andrew Carnegie's statistical endeavors.
 
 References:
-- J. King and M. Kay (2020).  *Radical Uncertainty:  Decision-Making Beyond the Numbers*.  W. W. Norton.
-- C. L. Powell with J. Persico (1995).  *My American Journey*.  Random House.
-- N. N. Taleb (2007).  *The Black Swan:  The Impact of the Highly Improbable*.  Random House.
+- J. King and M. Kay (2020).  [*Radical Uncertainty:  Decision-Making Beyond the Numbers*](https://wwnorton.com/books/9780393541984/about-the-book/description).  W. W. Norton.
+- C. L. Powell with J. Persico (1995).  [*My American Journey*](https://www.penguinrandomhouse.com/books/133242/my-american-journey-by-colin-powell-with-joseph-e-persico/).  Random House.
+- N. N. Taleb (2007).  [*The Black Swan:  The Impact of the Highly Improbable*](https://www.penguinrandomhouse.com/books/176226/the-black-swan-second-edition-by-nassim-nicholas-taleb/).  Random House.
 - C. Tong (2019).  [Statistical inference enables bad science; statistical thinking enables good science](https://doi.org/10.1080/00031305.2018.1518264).  *The American Statistician*, **73** (Sup 1): 246-261.  
-- J. W. Tukey (1962).  The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
+- J. W. Tukey (1962).  [The future of data analysis](https://doi.org/10.1214/aoms/1177704711).  *Annals of Mathematical Statistics*, 33:  1-67.
 
