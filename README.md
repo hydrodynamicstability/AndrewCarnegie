@@ -24,8 +24,8 @@ The majority of the material from this presentation appears in my article, [The 
 The American railroads of the 19th century represent some of the largest companies in the United States at that time.  In the era before there were business schools or management science, railroad managers had to invent methods of runining large, complex organizations.  Railroad managers such as [Daniel McCallum](https://en.wikipedia.org/wiki/Daniel_McCallum) were civil engineers by training.  McCallum invented the organization chart, and was a prime mover in the development of cost accounting methods, which Andrew Carnegie learned while employed by the Pennsylvania Railroad, then the nation's largest company.  
 
 Sources:
-- W. J. Hopp and M. L. Spearman (2008).  *Factory Physics*, 3d ed.  McGraw-Hill.
-- H. C. Livesay (2007).  *Andrew Carnegie and the Rise of Big Business*, 3d ed.  Pearson Longman.
+- W. J. Hopp and M. L. Spearman (2008).  [*Factory Physics*](https://factoryphysics.com/factory-physics-3rd-edition), 3d ed.  McGraw-Hill.
+- H. C. Livesay (2007).  [*Andrew Carnegie and the Rise of Big Business*](https://www.pearson.com/us/higher-education/program/Livesay-Andrew-Carnegie-and-the-Rise-of-Big-Business-Library-of-American-Biography-Series-3rd-Edition/PGM53577.html), 3d ed.  Pearson Longman.
 
 ### A critique of Carnegie from the perspective of Shewhart and Deming
 
