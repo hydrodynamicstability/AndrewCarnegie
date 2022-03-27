@@ -17,7 +17,7 @@ American steel tycoon and philanthropist Andrew Carnegie (1835-1919) was a membe
 
 ### Introduction
 
-The majority of the material from this presentation appears in my article, [The statistical endeavors of Andrew Carnegie](https://doi.org/10.1080/09332480.2021.2003633),  *Chance*, **34** (4), 12-17.  I also discuss this topic in Episode 216 of the *Stats+Stories* podcast, [Carnegie the Statistician](https://statsandstories.net/economics1/carnegie-the-statistician) (Jan. 27, 2022).  I will not reproduce that material here.  Instead, here you will find additional material from the presentation that was not included in the *Chance* article.  I provide full references only for citations that were not made in my *Chance* article; please see that article for the remaining references.
+The majority of the material from this presentation appears in my article, [The statistical endeavors of Andrew Carnegie](https://doi.org/10.1080/09332480.2021.2003633),  *Chance*, **34** (4), 12-17.  I also discuss this topic in Episode 216 of the *Stats+Stories* podcast, [Carnegie the Statistician](https://statsandstories.net/economics1/carnegie-the-statistician) (Jan. 27, 2022).  I will not reproduce that material here, since you should really read the article.  Instead, here you will find additional material from the presentation that was not included in the *Chance* article.  I provide full references only for citations that were not made in my *Chance* article; please see that article for the remaining references.
 
 ### The birth of cost accounting
 
