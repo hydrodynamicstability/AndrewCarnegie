@@ -47,7 +47,7 @@ However, that view did not come to dominate the profession until the foundationa
 
 While in the 19th century "statistics" could still be broadly defined, and a separate term like "data science" would have been superfluous, that is not the case today.  Statisticians who dismiss data science as "statistics under another name" are, in my opinion, unfairly ignorant of the historical development and narrowing of the statistics profession.  Statistics is not **the** art and science of learning from data, but is at best one of many such arts and sciences.
 
-(See my *Chance* article for additional discussion of these points, including [Stephen Stigler](https://en.wikipedia.org/wiki/Stephen_Stigler)'s views.)
+(See my *Chance* article for additional discussion of these points, including [Stephen Stigler](https://en.wikipedia.org/wiki/Stephen_Stigler)'s views, and more specific comments about Brown and Kass.)
 
 References:
 
@@ -80,3 +80,8 @@ References:
 - C. Tong (2019).  [Statistical inference enables bad science; statistical thinking enables good science](https://doi.org/10.1080/00031305.2018.1518264).  *The American Statistician*, **73** (Sup 1): 246-261.  
 - J. W. Tukey (1962).  [The future of data analysis](https://doi.org/10.1214/aoms/1177704711).  *Annals of Mathematical Statistics*, 33:  1-67.
 
+### Recommended reading
+
+I cite a number of biographies of Andrew Carnegie in my *Chance* article.  At one time his definitive biography was considered to be the one by Joseph Frazier Wall, but David Nasaw's has come to surpass it.  Not all readers will have the appetite for a lengthy biography though; for such readers I recommend Harold Livesay's biography, which is a fast read, and also the inspiration for my interest in Carnegie's business analytics, a topic Livesay is particularly strong on.
+
+I strongly recommend all statisticians to read Breiman's "Two Cultures" paper.  I am currently reading Kay and King's *Radical Uncertainty*, and in my opinion, the earlier parts of the book should also be recommended to all statisicians as well as those who use data to make decisions.
