@@ -84,4 +84,4 @@ References:
 
 I cite a number of biographies of Andrew Carnegie in my *Chance* article.  At one time his definitive biography was considered to be the one by Joseph Frazier Wall, but David Nasaw's has come to surpass it.  Not all readers will have the appetite for a lengthy biography though; for such readers I recommend Harold Livesay's biography, which is a fast read, and also the inspiration for my interest in Carnegie's business analytics, a topic Livesay is particularly strong on.
 
-I strongly recommend all statisticians to read Breiman's "Two Cultures" paper.  I am currently reading Kay and King's *Radical Uncertainty*, and in my opinion, the earlier parts of the book should also be recommended to all statisicians as well as those who use data to make decisions.
+I strongly recommend all statisticians read Breiman's "Two Cultures" paper.  I am currently reading Kay and King's *Radical Uncertainty*, and in my opinion, the earlier parts of the book should also be recommended to all statisicians, as well as those who use data to make decisions.
