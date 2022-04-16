@@ -62,7 +62,7 @@ References:
 
 ### The need for judgment
 
-[Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) (2007) defined the *Ludic Fallacy*.  In my words, this is the fallacy of modeling a system by analogy to games of chance, ie, using stochastic modeling, when it is not appropriate.  [John Kay](https://en.wikipedia.org/wiki/John_Kay_(economist)) and [Mervyn King](https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury) (2020) borrow terms from the statistician [Jimmie Savage](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage):
+[Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) (2007) defined the *Ludic Fallacy*.  In my words, this is the fallacy of modeling a system by analogy to games of chance, ie, using stochastic modeling, when it is not appropriate.  [John Kay](https://en.wikipedia.org/wiki/John_Kay_(economist)) and [Mervyn King](https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury) (2020) borrow terms from the statistician [Jimmie Savage](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage) (*Foundations of Statistics*, Wiley, 1954):
 - In "small world" problems, you can describe the universe of possible outcomes and potentially assign a probability distribution to that set.
 - In "large world" problems, all possible outcomes cannot even be known, therefore probability assignment is not feasible.  That's where we actually live.
 
@@ -85,3 +85,5 @@ References:
 I cite a number of biographies of Andrew Carnegie in my *Chance* article.  At one time his definitive biography was considered to be the one by Joseph Frazier Wall, but David Nasaw's has come to surpass it.  Not all readers will have the appetite for a lengthy biography though; for such readers I recommend Harold Livesay's biography, which is a fast read, and also the inspiration for my interest in Carnegie's business analytics, a topic Livesay is particularly strong on.
 
 I strongly recommend all statisticians read Breiman's "Two Cultures" paper.  I am currently reading Kay and King's *Radical Uncertainty*, and in my opinion, the earlier parts of the book should also be recommended to all statisicians, as well as those who use data to make decisions.
+
+**Update, April 15, 2022:**  I have finished reading Kay and King's *Radical Uncertainty*.  It is a blistering indictment of economic theory and practice.  Statistics take a lot of collateral damage in the book, rightly so in my opinion.  I reiterate my recommendation that every statistician read at least the earlier parts of the book.
