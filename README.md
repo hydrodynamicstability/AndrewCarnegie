@@ -86,4 +86,7 @@ I cite a number of biographies of Andrew Carnegie in my *Chance* article.  At on
 
 I strongly recommend all statisticians read Breiman's "Two Cultures" paper.  I am currently reading Kay and King's *Radical Uncertainty*, and in my opinion, the earlier parts of the book should also be recommended to all statisicians, as well as those who use data to make decisions.
 
-**Update, April 15, 2022:**  I have finished reading Kay and King's *Radical Uncertainty*.  It is a blistering indictment of economic theory and practice.  Statistics take a lot of collateral damage in the book, rightly so in my opinion.  I reiterate my recommendation that every statistician read at least the earlier parts of the book.
+**Update, April 15, 2022:**  I have finished reading Kay and King's *Radical Uncertainty*.  It is a blistering indictment of economic theory and practice.  Statistics take a lot of collateral damage in the book, rightly so in my opinion.  I reiterate my recommendation that every statistician read at least the earlier parts of the book.  I end with two quotes from them.  First, "Judgement cannot be avoided in a world of radical uncertainty.  Remember the old adage:  only do what only you can do.  We need to apply that to human reasoning in worlds of radical uncertainty.  We have no need to fear computers; we should use them.  To do that requires judgement.  Good judgement cannot be summarised in twelve rules for life, seven habits of effective people, or even twenty-one lessons for the twenty-first century."
+
+Second, they write "People who know only economics do not know much about economics."  I think the same applies for statistics!
+
