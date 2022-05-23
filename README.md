@@ -90,3 +90,5 @@ I strongly recommend all statisticians read Breiman's "Two Cultures" paper.  I a
 
 Second, they write "People who know only economics do not know much about economics."  I think the same applies for statistics!
 
+(c) 2022 by Christopher Tong
+
